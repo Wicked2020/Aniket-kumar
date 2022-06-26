@@ -1,0 +1,27 @@
+/*body{
+  background-color:#97DBAE;
+}*/
+h1 {color:red; font-size: 100px;}
+p{
+  font-style: italic;
+  color:blue;
+}
+img:hover{
+  background-color: gold;
+}
+
+.bacon{
+  background-color: green;
+}
+
+.broccoli{
+  background-color: red;
+}
+.circular{
+  border-radius: 30%;
+}
+/**********id selector*************/
+#heading
+{
+  color:blue;
+}
